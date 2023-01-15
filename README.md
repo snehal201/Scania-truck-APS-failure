@@ -16,7 +16,7 @@ Scania truck APS failure project is a data analysis project that aims to underst
 
 6. Continual improvement: The project team continues to monitor the data and make changes as needed to improve the performance of the APS transmission and reduce the risk of failure.
 
-## The goal of this project is to understand the underlying cause of Automatic Power Shift (APS) transmission failures in Scania trucks, through data analysis and identifying patterns and trends in the data, to predict and prevent such failures in the future. This will help Scania trucks to have fewer breakdowns, reducing downtime and increasing the satisfaction of the customers.
+### The goal of this project is to understand the underlying cause of Automatic Power Shift (APS) transmission failures in Scania trucks, through data analysis and identifying patterns and trends in the data, to predict and prevent such failures in the future. This will help Scania trucks to have fewer breakdowns, reducing downtime and increasing the satisfaction of the customers.
 
 
 
